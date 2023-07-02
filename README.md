@@ -12,4 +12,4 @@
 #https://stackoverflow.com/questions/56360610/sum-column-based-on-another-column-in-pandas-dataframe
 #https://datagy.io/pandas-diff/
 
-
+#I used a combination of ideas learned in class and a few calls from the above sources to find the solutions. The code contains comments showing each of my steps, and how each step brought me towards the desired solution. Please contact with any questions.
