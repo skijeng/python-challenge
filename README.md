@@ -1,6 +1,8 @@
 # python-challenge
 
-Each main.py code and output.txt is located in the Resources folder from their respective project.
+Each main.py code and output.txt is located in the Resources folder from their respective PyPoll and PyBank projects.
+
+First navigate to the PyPoll and PyBank folders, then to the resources folder to locate these. 
 
 Here is a list of sites I used for resources:
 
